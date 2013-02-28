@@ -1,0 +1,21 @@
+C:\
+
+MacmillanServices Folder
+DigitalLibrary Jobs Folder
+Microsoft Forefront TMG
+
+
+S:\
+
+AcsDocuments
+Application Deployment
+Deployment Files
+Final Documentation
+MFC_Extended Trade
+Sharepoint 
+Sharepoint Update
+Site Backup
+Software
+zevenseas.Community.Search
+vsprojects
+spmetal
